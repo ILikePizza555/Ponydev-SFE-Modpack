@@ -34,7 +34,7 @@ jobs:
               uses: vimtor/action-zip@v1
               with:
                     files: server/**/*
-                    dest: server-ponydev-sfe-${{ env.ARTIFACT_NAME }}
+                    dest: server-ponydev-sfe-${{ env.ARTIFACT_NAME }}.zip
             - name: Upload Artifacts
               uses: actions/upload-artifact@v3
               with:
