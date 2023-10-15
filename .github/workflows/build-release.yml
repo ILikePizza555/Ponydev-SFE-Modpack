@@ -13,7 +13,7 @@ jobs:
         env:
             NF_REVISION: 'f3ce9858c05adef8e533b106359cddb6a7f6f355'
             IS_PUSH: ${{ github.event_name == 'push' }}
-            ARTIFACT_NAME: ${{ (github.event_name == 'push') && github.ref_name || format('{0}-{1}', github.ref_name, github.sha) }}
+            ARTIFACT_NAME: ${{ (github.event_name == 'push') && github.ref_name || format('{0}-{1}', github.actor, github.sha) }}
         steps:
             - name: Checkout code
               uses: actions/checkout@v2
