@@ -1,7 +1,7 @@
 name = "Ponydevs - Something for Everyone"
 description = "Ponydevs modpack"
 author = "Queen Izzy"
-version = "1.3.2"
+version = "1.3.3"
 minecraft_version = "1.20.1"
 mod_loader.id = "fabric"
 mod_loader.version = "0.14.22"
@@ -13,6 +13,7 @@ audioplayer = {project_id = "SRlzjEBS", version_id = "dyAoCTEw"} # AudioPlayer f
 beautify-refabricated = {project_id = "DhSSvaxs", version_id = "Dwqjxrdn"} # Beautify: Refabricated 1.0.0+1.20 - https://modrinth.com/mod/beautify-refabricated
 better-combat = {project_id = "5sy6g3kz", version_id = "Z6wHaEla"} # Better Combat 1.7.4+1.20.1-fabric - https://modrinth.com/mod/better-combat
 betterf3 = {project_id = "8shC1gFX", version_id = "FtJ0KSLo"} # BetterF3 7.0.1 - https://modrinth.com/mod/betterf3
+blockus = {project_id = "zFiY2Go0", version_id = "Ed11GSJv"} # Blockus 2.7.6+1.20.1 - https://modrinth.com/mod/blockus
 bluemap = {project_id = "swbUV1cr", version_id = "xgcQSkBc"} # BlueMap 3.17-fabric-1.20 - https://modrinth.com/mod/bluemap
 bobby = {project_id = "M08ruV16", version_id = "2cuVyTav"} # Bobby 5.0.1 - https://modrinth.com/mod/bobby
 botarium = {project_id = "2u6LRnMa", version_id = "YgOh7n9M"} # Botarium 2.2.0 - https://modrinth.com/mod/botarium
