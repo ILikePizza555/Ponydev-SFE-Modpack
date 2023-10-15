@@ -20,7 +20,7 @@ jobs:
                     profile: minimal
             - name: Install Netherfire
               env:
-                    NF_REVISION: '9a805814cad776a46114fbfab7a13a8c5e6c06c0'
+                    NF_REVISION: 'a6e3e5a6306c8a2a634b5b1e7c06b351d2cbdef2'
               run: cargo install --git https://github.com/octylFractal/netherfire.git --rev $NF_REVISION
             - name: Run Netherfire
               run: netherfire --create-modrinth-pack client --create-server-base server ./
