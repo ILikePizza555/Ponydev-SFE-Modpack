@@ -12,7 +12,6 @@ jobs:
         runs-on: ubuntu-latest
         env:
             NF_REVISION: 'f3ce9858c05adef8e533b106359cddb6a7f6f355'
-            IS_PUSH: ${{ github.event_name == 'push' }}
             ARTIFACT_NAME: ${{ (github.event_name == 'push') && github.ref_name || format('{0}-{1}', github.actor, github.sha) }}
         steps:
             - name: Checkout code
@@ -44,7 +43,7 @@ jobs:
                         server-ponydev-sfe-${{ env.ARTIFACT_NAME }}.zip
             - name: Release
               uses: softprops/action-gh-release@v1
-              if: env.IS_PUSH
+              if: github.event_name == 'push'
               with:
                     files: |
                         client/*.mrpack
