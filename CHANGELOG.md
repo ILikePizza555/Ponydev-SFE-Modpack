@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added default server config
 - Added Blockus (which was missing)
+- Added Geckolib (which was missing)
+- Added Guardians Galore (which was missing)
+- Added Valhelsia Furniture (which was missing)
 
 ## [1.3.2]
 

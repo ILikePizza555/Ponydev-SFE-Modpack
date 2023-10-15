@@ -25,6 +25,7 @@ continuity = {project_id = "1IjD5062", version_id = "Z9FJWLMt"} # Continuity 3.0
 #create-fabric = {project_id = "Xbc0uyRg", version_id = "qlA1WuOK"} # Create Fabric 0.5.1-d-build.1161+mc1.20.1 - https://modrinth.com/mod/create-fabric
 create-fabric-sodium-fix = {project_id = "ysHf2zCJ", version_id = "Z7Vvonpy"} # Create Sodium Fix v0.5.1.d - https://modrinth.com/mod/create-fabric-sodium-fix
 create-steam-n-rails = {project_id = "ZzjhlDgM", version_id = "vVIvVuGn"} # Create: Steam 'n' Rails 1.5.1-fabric-mc1.20.1 - https://modrinth.com/mod/create-steam-n-rails
+create-ore-excavation = {project_id = "ResbpANg", version_id = "P0mliaL7"} # Create Ore Excavation 1.20-1.4.0 Fabric - https://modrinth.com/mod/create-ore-excavation
 cristel-lib = {project_id = "cl223EMc", version_id = "k0RzoTGC"} # Cristel Lib 1.1.3-fabric - https://modrinth.com/mod/cristel-lib
 ct-overhaul-village = {project_id = "fgmhI8kH", version_id = "7LYJgioY"} # ChoiceTheorem's Overhauled Village 3.3.5 - https://modrinth.com/mod/ct-overhaul-village
 ctov-beautify-compat = {project_id = "iunZDj0l", version_id = "elBmQR7P"} # CTOV - Beautify Compat 2.0+mod - https://modrinth.com/mod/ctov-beautify-compat
@@ -39,6 +40,8 @@ fabric-api = {project_id = "P7dR8mSH", version_id = "tFw0iWAk"} # Fabric API 0.9
 fabric-language-kotlin = {project_id = "Ha28R6CL", version_id = "48ri5y9r"} # Fabric Language Kotlin 1.10.10+kotlin.1.9.10 - https://modrinth.com/mod/fabric-language-kotlin
 farmers-delight-fabric = {project_id = "4EakbH8e", version_id = "rlm3hWGx"} # Farmer's Delight [Fabric] 1.4.2 - https://modrinth.com/mod/farmers-delight-fabric
 ferrite-core = {project_id = "uXXizFIs", version_id = "FCnCG6PS"} # FerriteCore 6.0.0-fabric - https://modrinth.com/mod/ferrite-core
+geckolib = {project_id = "8BmcQJ2H", version_id = "oPgOSBzN"} # Fabric 1.20.1 - https://modrinth.com/mod/geckolib
+guardians-galore-fabric = {project_id = "eS3mUiGk", version_id = "LyPKxFW9"} # Guardians Galore [Fabric] 1.20.1-3.1 - https://modrinth.com/mod/guardians-galore-fabric
 indium = {project_id = "Orvt0mRa", version_id = "Lue6O9z9"} # Indium 1.0.27+mc1.20.1 - https://modrinth.com/mod/indium
 iris = {project_id = "YL57xq9U", version_id = "DsjYuGMO"} # Iris Shaders 1.6.10+1.20.1 - https://modrinth.com/mod/iris
 jade = {project_id = "nvQzSEkH", version_id = "ckXpheui"} # Jade 🔍 11.6.2 - https://modrinth.com/mod/jade
@@ -67,6 +70,7 @@ soundsbegone = {project_id = "FOIvwGKz", version_id = "u6jZvhPV"} # Sounds Be Go
 tidal-towns = {project_id = "EEIwvQVo", version_id = "9rGNfR18"} # Tidal Towns 1.2+mod - https://modrinth.com/mod/tidal-towns
 travelersbackpack = {project_id = "rlloIFEV", version_id = "xoAo10oT"} # Traveler's Backpack 1.20.1-9.1.6 - https://modrinth.com/mod/travelersbackpack
 trinkets = {project_id = "5aaWibi9", version_id = "e563ycts"} # Trinkets 3.7.1 - https://modrinth.com/mod/trinkets
+valhelsia-furniture = {project_id = "qmCh2PxS", version_id = "fwdfGTTL"} # Valhelsia Furniture - https://modrinth.com/mod/valhelsia-furniture
 wwoo = {project_id = "II7t6llZ", version_id = "cNiETBJi"} # William Wythers' Overhauled Overworld 2.0.0 - https://modrinth.com/mod/wwoo
 xaeros-minimap = {project_id = "1bokaNcj", version_id = "iztrg4XH"} # Xaero's Minimap 23.8.2_Fabric_1.20 - https://modrinth.com/mod/xaeros-minimap
 
