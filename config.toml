@@ -68,12 +68,12 @@ jei = {project_id = "u6dRKJwZ", version_id = "lIRFslED"} # Just Enough Items 15.
 just-enough-resources-jer = {project_id = "uEfK2CXF", version_id = "ecxqA4B1"} # Just Enough Resources (JER) 1.4.0.238 - https://modrinth.com/mod/just-enough-resources-jer
 
 # Farmer's Respire (Fabric) 2.3.4 - https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
-[mods.curseforge.farmers-respite-fabric]
-project_id = 811003
-version_id = 4754429
-ignored_deps = [
+# [mods.curseforge.farmers-respite-fabric]
+# project_id = 811003
+# version_id = 4754429
+# ignored_deps = [
     # Farmer's Delight (Fabric) is included from Modrinth
-    {project_id = 482834},
+#     {project_id = 482834},
     # Fabric API is included from Modrinth
-    {project_id = 306612}
-]
+#    {project_id = 306612}
+# ]
