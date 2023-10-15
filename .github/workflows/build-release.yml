@@ -25,7 +25,7 @@ jobs:
             - name: Run Netherfire
               run: netherfire --create-modrinth-pack client --create-server-base server ./
             - name: Zip Server Files
-              uses: vimtor/actions-zip@v1.1
+              uses: vimtor/action-zip@v1.1
               with:
                     files: server/**/*
                     dest: server-ponydev-sfe-${{ github.ref_name }} 
