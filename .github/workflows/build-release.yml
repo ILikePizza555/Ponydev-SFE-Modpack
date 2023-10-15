@@ -22,9 +22,9 @@ jobs:
                     toolchain: stable
                     profile: minimal
             - name: Install Netherfire
-              uses: taiki-e/cache-cargo-install-action@v1
+              uses: baptiste0928/cargo-install@v2
               with:
-                    tool: netherfire
+                    crate: netherfire
                     git: https://github.com/octylFractal/netherfire.git
                     rev: ${{ env.NF_REVISION }}
             - name: Run Netherfire
