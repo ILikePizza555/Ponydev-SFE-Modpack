@@ -1,0 +1,40 @@
+
+name: Build Release
+
+on:
+    push:
+        tags:
+            - 'v*.*.*'
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+            - name: Install Rust
+              uses: actions-rs/toolchain@v1
+              with:
+                    toolchain: stable
+                    profile: minimal
+            - name: Install Netherfire
+              env:
+                    NF_REVISION: '9a805814cad776a46114fbfab7a13a8c5e6c06c0'
+              run: cargo install --git https://github.com/octylFractal/netherfire.git --rev $NF_REVISION
+            - name: Run Netherfire
+              run: netherfire --create-modrinth-pack client --create-server-base server ./
+            - name: Zip Server Files
+              uses: vimtor/actions-zip@v1.1
+              with:
+                    files: server/**/*
+                    dest: server-ponydev-sfe-${{ github.ref_name }} 
+            - name: Release
+              uses: softprops/action-gh-release@v1
+              with:
+                    files: |
+                        client/*.mrpack
+                        server-ponydev-sfe-${{ github.ref_name }}.zip
+                    tag_name: ${{ github.ref_name }}
+                    body: ${{ github.ref_name }}
+                    draft: false
+                    prerelease: false
