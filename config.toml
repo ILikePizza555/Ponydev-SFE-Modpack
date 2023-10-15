@@ -8,6 +8,7 @@ mod_loader.version = "0.14.22"
 
 [mods.modrinth]
 ad-astra = {project_id = "3ufwT9JF", version_id = "DruFc2hK"} # Ad Astra 1.15.4 - https://modrinth.com/mod/ad-astra
+adorn = {project_id = "E6FUtRJh", version_id = "HXibuobl"} # Adorn 5.0.0 for 1.20.1 - https://modrinth.com/mod/adorn
 audioplayer = {project_id = "SRlzjEBS", version_id = "dyAoCTEw"} # AudioPlayer fabric-1.20.1-1.8.1 - https://modrinth.com/mod/audioplayer
 beautify-refabricated = {project_id = "DhSSvaxs", version_id = "Dwqjxrdn"} # Beautify: Refabricated 1.0.0+1.20 - https://modrinth.com/mod/beautify-refabricated
 better-combat = {project_id = "5sy6g3kz", version_id = "Z6wHaEla"} # Better Combat 1.7.4+1.20.1-fabric - https://modrinth.com/mod/better-combat
@@ -21,7 +22,8 @@ cccbridge = {project_id = "fXt291FO", version_id = "57pJUQQM"} # CC:C Bridge 1.6
 chunks-fade-in = {project_id = "JaNmzvA8", version_id = "XddlRahr"} # Chunks fade in v1.0.4-1.20.1 - https://modrinth.com/mod/chunks-fade-in
 cloth-config = {project_id = "9s6osm5g", version_id = "s7VTKfLA"} # Cloth Config API 11.1.106+fabric - https://modrinth.com/mod/cloth-config
 continuity = {project_id = "1IjD5062", version_id = "Z9FJWLMt"} # Continuity 3.0.0-beta.4+1.20.1 - https://modrinth.com/mod/continuity
-create-fabric = {project_id = "Xbc0uyRg", version_id = "qlA1WuOK"} # Create Fabric 0.5.1-d-build.1161+mc1.20.1 - https://modrinth.com/mod/create-fabric
+#create-fabric = {project_id = "Xbc0uyRg", version_id = "qlA1WuOK"} # Create Fabric 0.5.1-d-build.1161+mc1.20.1 - https://modrinth.com/mod/create-fabric
+create-fabric-sodium-fix = {project_id = "ysHf2zCJ", version_id = "Z7Vvonpy"} # Create Sodium Fix v0.5.1.d - https://modrinth.com/mod/create-fabric-sodium-fix
 create-steam-n-rails = {project_id = "ZzjhlDgM", version_id = "vVIvVuGn"} # Create: Steam 'n' Rails 1.5.1-fabric-mc1.20.1 - https://modrinth.com/mod/create-steam-n-rails
 cristel-lib = {project_id = "cl223EMc", version_id = "k0RzoTGC"} # Cristel Lib 1.1.3-fabric - https://modrinth.com/mod/cristel-lib
 ct-overhaul-village = {project_id = "fgmhI8kH", version_id = "7LYJgioY"} # ChoiceTheorem's Overhauled Village 3.3.5 - https://modrinth.com/mod/ct-overhaul-village
