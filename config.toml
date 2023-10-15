@@ -18,7 +18,6 @@ bobby = {project_id = "M08ruV16", version_id = "2cuVyTav"} # Bobby 5.0.1 - https
 botarium = {project_id = "2u6LRnMa", version_id = "YgOh7n9M"} # Botarium 2.2.0 - https://modrinth.com/mod/botarium
 cardinal-components-api = {project_id = "K01OU20C", version_id = "qW85eawp"} # Cardinal Components API 5.2.2 - https://modrinth.com/mod/cardinal-components-api
 cc-tweaked = {project_id = "gu7yAYhd", version_id = "s6Ov3R0y"} # CC: Tweaked 1.108.1 - https://modrinth.com/mod/cc-tweaked
-cccbridge = {project_id = "fXt291FO", version_id = "57pJUQQM"} # CC:C Bridge 1.6.2b-fabric - https://modrinth.com/mod/cccbridge
 chunks-fade-in = {project_id = "JaNmzvA8", version_id = "XddlRahr"} # Chunks fade in v1.0.4-1.20.1 - https://modrinth.com/mod/chunks-fade-in
 cloth-config = {project_id = "9s6osm5g", version_id = "s7VTKfLA"} # Cloth Config API 11.1.106+fabric - https://modrinth.com/mod/cloth-config
 continuity = {project_id = "1IjD5062", version_id = "Z9FJWLMt"} # Continuity 3.0.0-beta.4+1.20.1 - https://modrinth.com/mod/continuity
@@ -69,6 +68,11 @@ travelersbackpack = {project_id = "rlloIFEV", version_id = "xoAo10oT"} # Travele
 trinkets = {project_id = "5aaWibi9", version_id = "e563ycts"} # Trinkets 3.7.1 - https://modrinth.com/mod/trinkets
 wwoo = {project_id = "II7t6llZ", version_id = "cNiETBJi"} # William Wythers' Overhauled Overworld 2.0.0 - https://modrinth.com/mod/wwoo
 xaeros-minimap = {project_id = "1bokaNcj", version_id = "iztrg4XH"} # Xaero's Minimap 23.8.2_Fabric_1.20 - https://modrinth.com/mod/xaeros-minimap
+
+[mods.modrinth.cccbridge] # CC:C Bridge 1.6.2b-fabric - https://modrinth.com/mod/cccbridge
+project_id = "fXt291FO"
+version_id = "57pJUQQM"
+ignored_deps = [ {project_id = "Xbc0uyRg" } ]
 
 # Farmer's Respire (Fabric) 2.3.4 - https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
 # [mods.curseforge.farmers-respite-fabric]
