@@ -1,18 +1,32 @@
-1.3.0
+# Changelog
 
-+ Added Nature's Compass
+All notable changes to this project will be documented in this file.
 
-1.2.0
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-- Removed extra Origin mods, as they were incompatible with Pony: Origins
-- Removed Plasmo Voice
-- Removed Sleep Warp
-+ Added Jade
-+ Added Jade Addons
-+ Added Just Enough Items
-+ Added Just Enough Resources
-+ Added Extra Mod Integrations
-+ Added Simple Voice Chat
-+ Added AudioPlayer
-+ Added Sound Physics Remastered
-+ Added Sounds Be Gone!
+## [1.3.0]
+
+### Added
+
+- Nature's Compass
+
+## [1.2.0]
+
+### Added
+
+Jade
+Jade Addons
+Just Enough Items
+Just Enough Resources
+Extra Mod Integrations
+Simple Voice Chat
+AudioPlayer
+Sound Physics Remastered
+Sounds Be Gone!
+
+### Removed
+
+Extra Origin mods, as they were incompatible with Pony: Origins
+Plasmo Voice
+Sleep Warp
