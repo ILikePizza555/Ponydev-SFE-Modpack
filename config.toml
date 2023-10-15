@@ -66,6 +66,7 @@ jade = {project_id = "nvQzSEkH", version_id = "ckXpheui"} # Jade 🔍 11.6.2 - h
 jade-addons-fabric = {project_id = "fThnVRli", version_id = "GYWtjmY7"} # Jade Addons (Fabric) 5.2.1 - https://modrinth.com/mod/jade-addons-fabric
 jei = {project_id = "u6dRKJwZ", version_id = "lIRFslED"} # Just Enough Items 15.2.0.27 - https://modrinth.com/mod/jei
 just-enough-resources-jer = {project_id = "uEfK2CXF", version_id = "ecxqA4B1"} # Just Enough Resources (JER) 1.4.0.238 - https://modrinth.com/mod/just-enough-resources-jer
+natures-compass = {project_id = "fPetb5Kh", version_id = "NovIXDxY"} # Nature's Compas 1.20.1-2.2.3-fabric - https://modrinth.com/mod/natures-compass
 
 # Farmer's Respire (Fabric) 2.3.4 - https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
 # [mods.curseforge.farmers-respite-fabric]
