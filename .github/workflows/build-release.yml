@@ -30,24 +30,25 @@ jobs:
             - name: Run Netherfire
               run: netherfire --create-modrinth-pack client --create-server-base server ./
             - name: Zip Server Files
-              uses: vimtor/action-zip@v1
+              uses: ksm2/archive-action@v1
               with:
-                    files: server/**/*
-                    dest: server-ponydev-sfe-${{ env.ARTIFACT_NAME }}.zip
+                    name: server-ponydev-sfe-${{ env.ARTIFACT_NAME }}
+                    include: server/**/*
+                    format: tar
             - name: Upload Artifacts
               uses: actions/upload-artifact@v3
               with:
                     name: ${{ env.ARTIFACT_NAME }}
                     path: |
                         client/*.mrpack
-                        server-ponydev-sfe-${{ env.ARTIFACT_NAME }}.zip
+                        server-ponydev-sfe-${{ env.ARTIFACT_NAME }}.*
             - name: Release
               uses: softprops/action-gh-release@v1
               if: github.event_name == 'push'
               with:
                     files: |
                         client/*.mrpack
-                        server-ponydev-sfe-${{ github.ref_name }}.zip
+                        server-ponydev-sfe-${{ github.ref_name }}.*
                     tag_name: ${{ github.ref_name }}
                     body: ${{ github.ref_name }}
                     draft: false
