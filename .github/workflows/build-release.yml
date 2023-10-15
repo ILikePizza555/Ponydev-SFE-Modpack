@@ -44,7 +44,7 @@ jobs:
                         server-ponydev-sfe-${{ env.ARTIFACT_NAME }}.zip
             - name: Release
               uses: softprops/action-gh-release@v1
-              if: ${{ env.IS_PUSH }}
+              if: env.IS_PUSH
               with:
                     files: |
                         client/*.mrpack
