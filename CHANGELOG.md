@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [Lighty](https://modrinth.com/mod/lighty)
 - [Inventory Management](https://modrinth.com/mod/inventory-management)
+- [myLoot](https://modrinth.com/mod/myloot)
 
 ## [1.3.6]
 
