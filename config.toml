@@ -85,6 +85,7 @@ lighty = {project_id = "yjvKidNM", version_id = "7MqyU696", side = "client"} #
 inventory-management = {project_id = "F7wXag4i", version_id = "iYujfjuN"} # 1.3.1 for 1.20-1.20.1 - https://modrinth.com/mod/inventory-management
 my-loot = {project_id = "kHc6jKsv", version_id = "l74cjwnw"} # myLoot 4.0.3-1.20.1 - https://modrinth.com/mod/myloot
 spoornpacks = {project_id = "40ytxGF2", version_id = "NSN0Yoyz"}
+guarding = {project_id = "aV1COQ7a", version_id = "qI2QGxUx"} # Guarding 1.20.1 - 2.3.2 - https://modrinth.com/mod/guarding
 
 [mods.modrinth.cccbridge] # CC:C Bridge 1.6.2b-fabric - https://modrinth.com/mod/cccbridge
 project_id = "fXt291FO"
