@@ -10,6 +10,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Added WW Expanded Ecosphere (formerly knowns as William Wythers Overhauled Overworld.) 
+- Added chunky as a server-only mod
+- Marked emi as client
+- Marked entityculling as client
+- Marked extra-mod-integrations as client
+- Marked indium as client
+- Marked iris as client
+- Marked jei as client
+- Marked just-enough-resources as client
+- Marked lambdynamiclights as client
+- Marked modmenu as client
+- Marked sodium as client
+- Marked sound-physics-remastered as client
+- Marked soundsbegone as client
+- Marked spark as client
+- Marked syncmatica as client
 
 ## [1.3.3]
 
