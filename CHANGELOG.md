@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Guarding](https://modrinth.com/mod/guarding)
 - [Couplings](https://modrinth.com/mod/couplings)
 - [HT's Treechop](https://modrinth.com/mod/treechop)
-- 
+- [Gravestones](https://modrinth.com/mod/gravestones)
 
 ## [1.3.6]
 
