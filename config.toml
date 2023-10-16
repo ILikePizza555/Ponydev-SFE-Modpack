@@ -36,6 +36,7 @@ emi = {project_id = "fRiHVvU7", version_id = "IOqjd65y"} # EMI 1.0.22+1.20.1+fab
 entityculling = {project_id = "NNAgCjsB", version_id = "BDwHAdWc"} # Entity Culling 1.6.2-1.20.2 - https://modrinth.com/mod/entityculling
 entitytexturefeatures = {project_id = "BVzZfTc1", version_id = "UPenaMj3"} # [ETF] Entity Texture Features 4.5.1 - https://modrinth.com/mod/entitytexturefeatures
 extra-mod-integrations = {project_id = "bpRHnWUb", version_id = "juXS5CaW"} # EMI Addon: Extra Mod Integrations 0.4.1+1.20.1 - https://modrinth.com/mod/extra-mod-integrations
+expanded-ecosphere = {project_id = "O1XGs7ps", version_id = "iNLKbdxm"} # Expanded Ecosphere FABRIC-3.2.1 - https://modrinth.com/mod/expanded-ecosphere
 fabric-api = {project_id = "P7dR8mSH", version_id = "tFw0iWAk"} # Fabric API 0.90.0+1.20.1 - https://modrinth.com/mod/fabric-api
 fabric-language-kotlin = {project_id = "Ha28R6CL", version_id = "48ri5y9r"} # Fabric Language Kotlin 1.10.10+kotlin.1.9.10 - https://modrinth.com/mod/fabric-language-kotlin
 farmers-delight-fabric = {project_id = "4EakbH8e", version_id = "rlm3hWGx"} # Farmer's Delight [Fabric] 1.4.2 - https://modrinth.com/mod/farmers-delight-fabric
