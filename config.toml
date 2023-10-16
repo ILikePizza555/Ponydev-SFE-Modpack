@@ -81,7 +81,7 @@ wwoo = {project_id = "II7t6llZ", version_id = "cNiETBJi"} # William Wythers' Ove
 xaeros-minimap = {project_id = "1bokaNcj", version_id = "iztrg4XH"} # Xaero's Minimap 23.8.2_Fabric_1.20 - https://modrinth.com/mod/xaeros-minimap
 
 #v2 stuff, will sort later
-lighty = {project_id = "yjvKidNM", version_id = "7MqyU696", side = "client"} # 
+lighty = {project_id = "yjvKidNM", version_id = "uSb6CMnH"} # 
 inventory-management = {project_id = "F7wXag4i", version_id = "iYujfjuN"} # 1.3.1 for 1.20-1.20.1 - https://modrinth.com/mod/inventory-management
 my-loot = {project_id = "kHc6jKsv", version_id = "l74cjwnw"} # myLoot 4.0.3-1.20.1 - https://modrinth.com/mod/myloot
 spoornpacks = {project_id = "40ytxGF2", version_id = "NSN0Yoyz"}
