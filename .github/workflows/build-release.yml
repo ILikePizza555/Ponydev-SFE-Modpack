@@ -14,7 +14,7 @@ jobs:
     build:
         runs-on: ubuntu-latest
         env:
-            NF_REVISION: 'f3ce9858c05adef8e533b106359cddb6a7f6f355'
+            NF_REVISION: '6adae37e77b9596cbd9e1f90277a26e6fb4cc4c7'
             ARTIFACT_NAME: ${{ (github.event_name == 'push') && github.ref_name || format('{0}-{1}', github.actor, github.sha) }}
         steps:
             - name: Checkout code

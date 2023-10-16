@@ -12,10 +12,10 @@ adorn = {project_id = "E6FUtRJh", version_id = "HXibuobl"} # Adorn 5.0.0 for 1.2
 audioplayer = {project_id = "SRlzjEBS", version_id = "dyAoCTEw"} # AudioPlayer fabric-1.20.1-1.8.1 - https://modrinth.com/mod/audioplayer
 beautify-refabricated = {project_id = "DhSSvaxs", version_id = "Dwqjxrdn"} # Beautify: Refabricated 1.0.0+1.20 - https://modrinth.com/mod/beautify-refabricated
 better-combat = {project_id = "5sy6g3kz", version_id = "Z6wHaEla"} # Better Combat 1.7.4+1.20.1-fabric - https://modrinth.com/mod/better-combat
-betterf3 = {project_id = "8shC1gFX", version_id = "FtJ0KSLo", side = "client"} # BetterF3 7.0.1 - https://modrinth.com/mod/betterf3
+betterf3 = {project_id = "8shC1gFX", version_id = "FtJ0KSLo"} # BetterF3 7.0.1 - https://modrinth.com/mod/betterf3
 blockus = {project_id = "zFiY2Go0", version_id = "Ed11GSJv"} # Blockus 2.7.6+1.20.1 - https://modrinth.com/mod/blockus
 bluemap = {project_id = "swbUV1cr", version_id = "xgcQSkBc"} # BlueMap 3.17-fabric-1.20 - https://modrinth.com/mod/bluemap
-bobby = {project_id = "M08ruV16", version_id = "2cuVyTav", side = "client"} # Bobby 5.0.1 - https://modrinth.com/mod/bobby
+bobby = {project_id = "M08ruV16", version_id = "2cuVyTav"} # Bobby 5.0.1 - https://modrinth.com/mod/bobby
 botarium = {project_id = "2u6LRnMa", version_id = "YgOh7n9M"} # Botarium 2.2.0 - https://modrinth.com/mod/botarium
 cardinal-components-api = {project_id = "K01OU20C", version_id = "qW85eawp"} # Cardinal Components API 5.2.2 - https://modrinth.com/mod/cardinal-components-api
 cc-tweaked = {project_id = "gu7yAYhd", version_id = "s6Ov3R0y"} # CC: Tweaked 1.108.1 - https://modrinth.com/mod/cc-tweaked
@@ -30,13 +30,13 @@ cristel-lib = {project_id = "cl223EMc", version_id = "k0RzoTGC"} # Cristel Lib 1
 ct-overhaul-village = {project_id = "fgmhI8kH", version_id = "7LYJgioY"} # ChoiceTheorem's Overhauled Village 3.3.5 - https://modrinth.com/mod/ct-overhaul-village
 ctov-beautify-compat = {project_id = "iunZDj0l", version_id = "elBmQR7P"} # CTOV - Beautify Compat 2.0+mod - https://modrinth.com/mod/ctov-beautify-compat
 ctov-farmers-delight-compat = {project_id = "CdRC4fyI", version_id = "Bp3TnFpM"} # CTOV - Farmer Delight Compat 2.0+mod - https://modrinth.com/mod/ctov-farmers-delight-compat
-chunky = {project_id = "fALzjamp", version_id = "t8SbUchF", side = "server"} # Chunky 1.3.92 - https://modrinth.com/plugin/chunky
+chunky = {project_id = "fALzjamp", version_id = "t8SbUchF"} # Chunky 1.3.92 - https://modrinth.com/plugin/chunky
 dawn = {project_id = "meZK2DCX", version_id = "J6b05anw"} # Dawn API v5.0.0 - https://modrinth.com/mod/dawn
 dynamic-fps = {project_id = "LQ3K71Q1", version_id = "MJxmQ042"} # Dynamic FPS 3.2.1 - https://modrinth.com/mod/dynamic-fps
 emi = {project_id = "fRiHVvU7", version_id = "IOqjd65y"} # EMI 1.0.22+1.20.1+fabric - https://modrinth.com/mod/emi
-entityculling = {project_id = "NNAgCjsB", version_id = "BDwHAdWc", side = "client"} # Entity Culling 1.6.2-1.20.2 - https://modrinth.com/mod/entityculling
-entitytexturefeatures = {project_id = "BVzZfTc1", version_id = "UPenaMj3", side = "client"} # [ETF] Entity Texture Features 4.5.1 - https://modrinth.com/mod/entitytexturefeatures
-extra-mod-integrations = {project_id = "bpRHnWUb", version_id = "juXS5CaW", side = "client"} # EMI Addon: Extra Mod Integrations 0.4.1+1.20.1 - https://modrinth.com/mod/extra-mod-integrations
+entityculling = {project_id = "NNAgCjsB", version_id = "BDwHAdWc"} # Entity Culling 1.6.2-1.20.2 - https://modrinth.com/mod/entityculling
+entitytexturefeatures = {project_id = "BVzZfTc1", version_id = "UPenaMj3"} # [ETF] Entity Texture Features 4.5.1 - https://modrinth.com/mod/entitytexturefeatures
+extra-mod-integrations = {project_id = "bpRHnWUb", version_id = "juXS5CaW"} # EMI Addon: Extra Mod Integrations 0.4.1+1.20.1 - https://modrinth.com/mod/extra-mod-integrations
 expanded-ecosphere = {project_id = "O1XGs7ps", version_id = "iNLKbdxm"} # Expanded Ecosphere FABRIC-3.2.1 - https://modrinth.com/mod/expanded-ecosphere
 fabric-api = {project_id = "P7dR8mSH", version_id = "tFw0iWAk"} # Fabric API 0.90.0+1.20.1 - https://modrinth.com/mod/fabric-api
 fabric-language-kotlin = {project_id = "Ha28R6CL", version_id = "48ri5y9r"} # Fabric Language Kotlin 1.10.10+kotlin.1.9.10 - https://modrinth.com/mod/fabric-language-kotlin
@@ -44,17 +44,17 @@ farmers-delight-fabric = {project_id = "4EakbH8e", version_id = "rlm3hWGx"} # Fa
 ferrite-core = {project_id = "uXXizFIs", version_id = "FCnCG6PS"} # FerriteCore 6.0.0-fabric - https://modrinth.com/mod/ferrite-core
 geckolib = {project_id = "8BmcQJ2H", version_id = "oPgOSBzN"} # Fabric 1.20.1 - https://modrinth.com/mod/geckolib
 guardians-galore-fabric = {project_id = "eS3mUiGk", version_id = "LyPKxFW9"} # Guardians Galore [Fabric] 1.20.1-3.1 - https://modrinth.com/mod/guardians-galore-fabric
-hd-skins = {project_id = "FzE9gshV", version_id = "1Jdf1Be1", side = "client"} # hdskins-6.11.0+1.20.2 - https://modrinth.com/mod/hd-skins
-indium = {project_id = "Orvt0mRa", version_id = "Lue6O9z9", side = "client"} # Indium 1.0.27+mc1.20.1 - https://modrinth.com/mod/indium
-iris = {project_id = "YL57xq9U", version_id = "DsjYuGMO", side = "client"} # Iris Shaders 1.6.10+1.20.1 - https://modrinth.com/mod/iris
+hd-skins = {project_id = "FzE9gshV", version_id = "1Jdf1Be1"} # hdskins-6.11.0+1.20.2 - https://modrinth.com/mod/hd-skins
+indium = {project_id = "Orvt0mRa", version_id = "Lue6O9z9"} # Indium 1.0.27+mc1.20.1 - https://modrinth.com/mod/indium
+iris = {project_id = "YL57xq9U", version_id = "DsjYuGMO"} # Iris Shaders 1.6.10+1.20.1 - https://modrinth.com/mod/iris
 jade = {project_id = "nvQzSEkH", version_id = "ckXpheui"} # Jade 🔍 11.6.2 - https://modrinth.com/mod/jade
 jade-addons-fabric = {project_id = "fThnVRli", version_id = "GYWtjmY7"} # Jade Addons (Fabric) 5.2.1 - https://modrinth.com/mod/jade-addons-fabric
 jei = {project_id = "u6dRKJwZ", version_id = "lIRFslED"} # Just Enough Items 15.2.0.27 - https://modrinth.com/mod/jei
-just-enough-resources-jer = {project_id = "uEfK2CXF", version_id = "ecxqA4B1", side = "client"} # Just Enough Resources (JER) 1.4.0.238 - https://modrinth.com/mod/just-enough-resources-jer
-lambdynamiclights = {project_id = "yBW8D80W", version_id = "mYl4RvKg", side = "client"} # LambDynamicLights 2.3.2+1.20.1 - https://modrinth.com/mod/lambdynamiclights
+just-enough-resources-jer = {project_id = "uEfK2CXF", version_id = "ecxqA4B1"} # Just Enough Resources (JER) 1.4.0.238 - https://modrinth.com/mod/just-enough-resources-jer
+lambdynamiclights = {project_id = "yBW8D80W", version_id = "mYl4RvKg"} # LambDynamicLights 2.3.2+1.20.1 - https://modrinth.com/mod/lambdynamiclights
 lithium = {project_id = "gvQqBUqZ", version_id = "ZSNsJrPI"} # Lithium mc1.20.1-0.11.2 - https://modrinth.com/mod/lithium
 mine-little-pony = {project_id = "JBjInUXM", version_id = "sMXaqaZU"} # Mine Little Pony 4.10.2+1.20 - https://modrinth.com/mod/mine-little-pony
-modmenu = {project_id = "mOgUt4GM", version_id = "lEkperf6", side="client"} # Mod Menu 7.2.2 - https://modrinth.com/mod/modmenu
+modmenu = {project_id = "mOgUt4GM", version_id = "lEkperf6"} # Mod Menu 7.2.2 - https://modrinth.com/mod/modmenu
 moonlight = {project_id = "twkfQtEc", version_id = "BsdtnGcc"} # Moonlight Lib fabric_1.20-2.8.48 - https://modrinth.com/mod/moonlight
 natures-compass = {project_id = "fPetb5Kh", version_id = "NovIXDxY"} # Nature's Compas 1.20.1-2.2.3-fabric - https://modrinth.com/mod/natures-compass
 origins = {project_id = "3BeIrqZR", version_id = "OdNHB7Bh"} # Origins 1.10.0 - https://modrinth.com/mod/origins
@@ -67,11 +67,11 @@ resourceful-lib = {project_id = "G1hIVOrD", version_id = "xeUwwWis"} # Resourcef
 simple-voice-chat = {project_id = "9eGKb6K1", version_id = "f1enbAVD"} # Simple Voice Chat fabric-1.20.1-2.4.26 - https://modrinth.com/mod/simple-voice-chat
 sleep-tight = {project_id = "tNai0h2Y", version_id = "cBS0eOt9"} # Sleep Tight 1.20-1.1.6 - https://modrinth.com/mod/sleep-tight
 slice-and-dice = {project_id = "GmjmRQ0A", version_id = "etRuKHcg"} # Create Slice & Dice 3.0.0 - https://modrinth.com/mod/slice-and-dice
-sodium = {project_id = "AANobbMI", version_id = "4OZL6q9h", side = "client"} # Sodium mc1.20.1-0.5.3 - https://modrinth.com/mod/sodium
-sound-physics-remastered = {project_id = "qyVF9oeo", version_id = "67Uq017p", side = "client"} # Sound Physics Remastered fabric-1.20.1-1.2.1 - https://modrinth.com/mod/sound-physics-remastered
-soundsbegone = {project_id = "FOIvwGKz", version_id = "u6jZvhPV", side="client"} # Sounds Be Gone! 1.1.2 - https://modrinth.com/mod/soundsbegone
-spark = {project_id = "l6YH9Als", version_id = "XGW2fviP", side = "server"} # 1.10.53 (Fabric 1.20.1) - https://modrinth.com/mod/spark
-syncmatica = { project_id = "bfneejKo", version_id = "chakoRye", side = "server" } # Syncmatica 1.20.1-0.3.10 - https://modrinth.com/mod/syncmatica
+sodium = {project_id = "AANobbMI", version_id = "4OZL6q9h"} # Sodium mc1.20.1-0.5.3 - https://modrinth.com/mod/sodium
+sound-physics-remastered = {project_id = "qyVF9oeo", version_id = "67Uq017p"} # Sound Physics Remastered fabric-1.20.1-1.2.1 - https://modrinth.com/mod/sound-physics-remastered
+soundsbegone = {project_id = "FOIvwGKz", version_id = "u6jZvhPV"} # Sounds Be Gone! 1.1.2 - https://modrinth.com/mod/soundsbegone
+spark = {project_id = "l6YH9Als", version_id = "XGW2fviP"} # 1.10.53 (Fabric 1.20.1) - https://modrinth.com/mod/spark
+syncmatica = { project_id = "bfneejKo", version_id = "chakoRye" } # Syncmatica 1.20.1-0.3.10 - https://modrinth.com/mod/syncmatica
 tidal-towns = {project_id = "EEIwvQVo", version_id = "9rGNfR18"} # Tidal Towns 1.2+mod - https://modrinth.com/mod/tidal-towns
 travelersbackpack = {project_id = "rlloIFEV", version_id = "xoAo10oT"} # Traveler's Backpack 1.20.1-9.1.6 - https://modrinth.com/mod/travelersbackpack
 trinkets = {project_id = "5aaWibi9", version_id = "e563ycts"} # Trinkets 3.7.1 - https://modrinth.com/mod/trinkets
