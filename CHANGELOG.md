@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - [Lighty](https://modrinth.com/mod/lighty)
+- [Inventory Management](https://modrinth.com/mod/inventory-management)
 
 ## [1.3.6]
 
