@@ -44,7 +44,7 @@ farmers-delight-fabric = {project_id = "4EakbH8e", version_id = "rlm3hWGx"} # Fa
 ferrite-core = {project_id = "uXXizFIs", version_id = "FCnCG6PS"} # FerriteCore 6.0.0-fabric - https://modrinth.com/mod/ferrite-core
 geckolib = {project_id = "8BmcQJ2H", version_id = "oPgOSBzN"} # Fabric 1.20.1 - https://modrinth.com/mod/geckolib
 guardians-galore-fabric = {project_id = "eS3mUiGk", version_id = "LyPKxFW9"} # Guardians Galore [Fabric] 1.20.1-3.1 - https://modrinth.com/mod/guardians-galore-fabric
-hdskins = {project_id = "8WrOOXkB", version_id = "GrzLbnK7", side = "client"} # HDSkins 1.0.0 - https://modrinth.com/mod/hdskins
+hd-skins = {project_id = "FzE9gshV", version_id = "qweuNYjF", side = "client"} # hdskins-6.11.0+1.20.2 - https://modrinth.com/mod/hd-skins
 indium = {project_id = "Orvt0mRa", version_id = "Lue6O9z9", side = "client"} # Indium 1.0.27+mc1.20.1 - https://modrinth.com/mod/indium
 iris = {project_id = "YL57xq9U", version_id = "DsjYuGMO", side = "client"} # Iris Shaders 1.6.10+1.20.1 - https://modrinth.com/mod/iris
 jade = {project_id = "nvQzSEkH", version_id = "ckXpheui"} # Jade 🔍 11.6.2 - https://modrinth.com/mod/jade
