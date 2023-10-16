@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.0.0]
 
+- Now come with default options
+  - Enables a resource pack for a custom hi-res font by default
+  - Changes a few keybinds so default keybinds aren't literally impossible to use
+
 ### Added
 
 - [Lighty](https://modrinth.com/mod/lighty)
