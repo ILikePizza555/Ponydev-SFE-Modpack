@@ -18,6 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [myLoot](https://modrinth.com/mod/myloot)
 - [Guarding](https://modrinth.com/mod/guarding)
 - [Couplings](https://modrinth.com/mod/couplings)
+- [HT's Treechop](https://modrinth.com/mod/treechop)
+- 
 
 ## [1.3.6]
 
