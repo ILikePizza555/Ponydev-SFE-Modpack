@@ -90,6 +90,7 @@ couplings = {project_id = "80ulerjA", version_id = "1S2TEbqR"} # Couplings 1.9.4
 ht-treechop = {project_id = "gHoB7SHO", version_id = "1U9SwvDm"} # HT's TreeChop 0.18.3 - https://modrinth.com/mod/treechop
 forge-config-api-port = {project_id = "ohNO6lps", version_id = "CtENDTlF"} # [FABRIC] [1.20.1] ForgeConfigAPIPort-v8.0.0 - https://modrinth.com/mod/forge-config-api-port
 gravestones = {project_id = "ssUbhMkL", version_id = "Uw9uAQaY"} # Gravestones - 1.20 - https://modrinth.com/mod/gravestones
+carpet = {project_id = "TQTTVgYE", version_id = "K0Wj117C", side = "server"} # Carpet 1.4.112 for Minecraft 1.20 and 1.20.1 - https://modrinth.com/mod/carpet
 
 [mods.modrinth.cccbridge] # CC:C Bridge 1.6.2b-fabric - https://modrinth.com/mod/cccbridge
 project_id = "fXt291FO"

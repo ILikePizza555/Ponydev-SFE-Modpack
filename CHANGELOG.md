@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Couplings](https://modrinth.com/mod/couplings)
 - [HT's Treechop](https://modrinth.com/mod/treechop)
 - [Gravestones](https://modrinth.com/mod/gravestones)
+- [Carpet](https://modrinth.com/mod/carpet)
 
 ## [1.3.6]
 
