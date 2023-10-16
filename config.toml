@@ -1,7 +1,7 @@
 name = "Ponydevs - Something for Everyone"
 description = "Ponydevs modpack"
 author = "Queen Izzy"
-version = "1.3.3"
+version = "1.3.5"
 minecraft_version = "1.20.1"
 mod_loader.id = "fabric"
 mod_loader.version = "0.14.22"
@@ -33,7 +33,7 @@ ctov-farmers-delight-compat = {project_id = "CdRC4fyI", version_id = "Bp3TnFpM"}
 chunky = {project_id = "fALzjamp", version_id = "t8SbUchF", side = "server"} # Chunky 1.3.92 - https://modrinth.com/plugin/chunky
 dawn = {project_id = "meZK2DCX", version_id = "J6b05anw"} # Dawn API v5.0.0 - https://modrinth.com/mod/dawn
 dynamic-fps = {project_id = "LQ3K71Q1", version_id = "MJxmQ042"} # Dynamic FPS 3.2.1 - https://modrinth.com/mod/dynamic-fps
-emi = {project_id = "fRiHVvU7", version_id = "IOqjd65y", side = "client"} # EMI 1.0.22+1.20.1+fabric - https://modrinth.com/mod/emi
+emi = {project_id = "fRiHVvU7", version_id = "IOqjd65y"} # EMI 1.0.22+1.20.1+fabric - https://modrinth.com/mod/emi
 entityculling = {project_id = "NNAgCjsB", version_id = "BDwHAdWc", side = "client"} # Entity Culling 1.6.2-1.20.2 - https://modrinth.com/mod/entityculling
 entitytexturefeatures = {project_id = "BVzZfTc1", version_id = "UPenaMj3", side = "client"} # [ETF] Entity Texture Features 4.5.1 - https://modrinth.com/mod/entitytexturefeatures
 extra-mod-integrations = {project_id = "bpRHnWUb", version_id = "juXS5CaW", side = "client"} # EMI Addon: Extra Mod Integrations 0.4.1+1.20.1 - https://modrinth.com/mod/extra-mod-integrations
@@ -48,7 +48,7 @@ indium = {project_id = "Orvt0mRa", version_id = "Lue6O9z9", side = "client"} # I
 iris = {project_id = "YL57xq9U", version_id = "DsjYuGMO", side = "client"} # Iris Shaders 1.6.10+1.20.1 - https://modrinth.com/mod/iris
 jade = {project_id = "nvQzSEkH", version_id = "ckXpheui"} # Jade 🔍 11.6.2 - https://modrinth.com/mod/jade
 jade-addons-fabric = {project_id = "fThnVRli", version_id = "GYWtjmY7"} # Jade Addons (Fabric) 5.2.1 - https://modrinth.com/mod/jade-addons-fabric
-jei = {project_id = "u6dRKJwZ", version_id = "lIRFslED", side = "client"} # Just Enough Items 15.2.0.27 - https://modrinth.com/mod/jei
+jei = {project_id = "u6dRKJwZ", version_id = "lIRFslED"} # Just Enough Items 15.2.0.27 - https://modrinth.com/mod/jei
 just-enough-resources-jer = {project_id = "uEfK2CXF", version_id = "ecxqA4B1", side = "client"} # Just Enough Resources (JER) 1.4.0.238 - https://modrinth.com/mod/just-enough-resources-jer
 lambdynamiclights = {project_id = "yBW8D80W", version_id = "mYl4RvKg", side = "client"} # LambDynamicLights 2.3.2+1.20.1 - https://modrinth.com/mod/lambdynamiclights
 lithium = {project_id = "gvQqBUqZ", version_id = "ZSNsJrPI"} # Lithium mc1.20.1-0.11.2 - https://modrinth.com/mod/lithium
