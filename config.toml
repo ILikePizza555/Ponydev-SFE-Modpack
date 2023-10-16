@@ -91,6 +91,9 @@ ht-treechop = {project_id = "gHoB7SHO", version_id = "1U9SwvDm"} # HT's TreeChop
 forge-config-api-port = {project_id = "ohNO6lps", version_id = "CtENDTlF"} # [FABRIC] [1.20.1] ForgeConfigAPIPort-v8.0.0 - https://modrinth.com/mod/forge-config-api-port
 gravestones = {project_id = "ssUbhMkL", version_id = "Uw9uAQaY"} # Gravestones - 1.20 - https://modrinth.com/mod/gravestones
 carpet = {project_id = "TQTTVgYE", version_id = "K0Wj117C", side = "server"} # Carpet 1.4.112 for Minecraft 1.20 and 1.20.1 - https://modrinth.com/mod/carpet
+kubejs = {project_id = "umyGl7zF", version_id = "QT3xVJkt"} # KubeJS Fabric 2001.6.3-build.52 - https://modrinth.com/mod/kubejs
+architectury-api = {project_id = "lhGA9TYQ", version_id = "Sbew3kXe"} # [Fabric 1.20(.1)] v9.1.12 - https://modrinth.com/mod/architectury-api
+rhino = {project_id = "sk9knFPE", version_id = "PN90O3BT"}
 
 [mods.modrinth.cccbridge] # CC:C Bridge 1.6.2b-fabric - https://modrinth.com/mod/cccbridge
 project_id = "fXt291FO"

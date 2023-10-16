@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [HT's Treechop](https://modrinth.com/mod/treechop)
 - [Gravestones](https://modrinth.com/mod/gravestones)
 - [Carpet](https://modrinth.com/mod/carpet)
+- [KubeJS](https://modrinth.com/mod/kubejs)
 
 ## [1.3.6]
 
