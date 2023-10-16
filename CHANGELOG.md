@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Inventory Management](https://modrinth.com/mod/inventory-management)
 - [myLoot](https://modrinth.com/mod/myloot)
 - [Guarding](https://modrinth.com/mod/guarding)
+- [Couplings](https://modrinth.com/mod/couplings)
 
 ## [1.3.6]
 
