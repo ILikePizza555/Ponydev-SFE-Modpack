@@ -1,7 +1,7 @@
 name = "Ponydevs - Something for Everyone"
 description = "Ponydevs modpack"
 author = "Queen Izzy"
-version = "1.3.6"
+version = "2.0.0"
 minecraft_version = "1.20.1"
 mod_loader.id = "fabric"
 mod_loader.version = "0.14.22"
@@ -79,6 +79,10 @@ valhelsia-core = {project_id = "HsdNFinx", version_id = "eWH7WT4F"} # Valhelsia 
 valhelsia-furniture = {project_id = "qmCh2PxS", version_id = "fwdfGTTL"} # Valhelsia Furniture - https://modrinth.com/mod/valhelsia-furniture
 wwoo = {project_id = "II7t6llZ", version_id = "cNiETBJi"} # William Wythers' Overhauled Overworld 2.0.0 - https://modrinth.com/mod/wwoo
 xaeros-minimap = {project_id = "1bokaNcj", version_id = "iztrg4XH"} # Xaero's Minimap 23.8.2_Fabric_1.20 - https://modrinth.com/mod/xaeros-minimap
+
+#v2 stuff, will sort later
+lighty = {project_id = "yjvKidNM", version_id = "7MqyU696", side = "client"}
+
 
 [mods.modrinth.cccbridge] # CC:C Bridge 1.6.2b-fabric - https://modrinth.com/mod/cccbridge
 project_id = "fXt291FO"
