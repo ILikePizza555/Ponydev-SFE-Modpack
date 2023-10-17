@@ -94,6 +94,7 @@ carpet = {project_id = "TQTTVgYE", version_id = "K0Wj117C", side = "server"} # C
 kubejs = {project_id = "umyGl7zF", version_id = "QT3xVJkt"} # KubeJS Fabric 2001.6.3-build.52 - https://modrinth.com/mod/kubejs
 architectury-api = {project_id = "lhGA9TYQ", version_id = "Sbew3kXe"} # [Fabric 1.20(.1)] v9.1.12 - https://modrinth.com/mod/architectury-api
 rhino = {project_id = "sk9knFPE", version_id = "PN90O3BT"}
+toms-storage = {project_id = "XZNI4Cpy", version_id = "l63ucSOn"} # Tom's Storage 1.20-1.6.5 Fabric - https://modrinth.com/mod/toms-storage
 
 [mods.modrinth.cccbridge] # CC:C Bridge 1.6.2b-fabric - https://modrinth.com/mod/cccbridge
 project_id = "fXt291FO"

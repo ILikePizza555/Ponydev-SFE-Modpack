@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Gravestones](https://modrinth.com/mod/gravestones)
 - [Carpet](https://modrinth.com/mod/carpet)
 - [KubeJS](https://modrinth.com/mod/kubejs)
+- [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
 
 ## [1.3.6]
 
